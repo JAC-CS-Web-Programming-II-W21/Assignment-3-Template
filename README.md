@@ -18,10 +18,15 @@
    - You may have to use the `HTTPS` or `SSH` URL to clone depending on your settings. If one doesn't work, try the other by clicking `Use SSH` or `Use HTTPS` above the 📋, and copy the new URL.
 4. You should now have a folder inside `Assignments` called `assignment-3-githubusername`.
    - If you want, you can rename this folder to `3-Views` for consistency's sake! 😉
-5. Inside of the newly cloned repo, copy the following folders from A2 into `src`:
+5. Inside of the newly cloned repo, copy the following from A2 into A3:
    - `src/controllers`
    - `src/models`
-   - `src/router`
+   - `src/router/Request.js`
+   - `src/router/Router.js`
+6. Copy the following from E3.3 into A3:
+   - `src/router/JsonResponse.js`
+   - `src/router/HtmlResponse.js`
+   - `src/router/Response.js`
 
 ## 🔍 Context
 
